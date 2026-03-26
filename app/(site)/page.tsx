@@ -6,7 +6,7 @@ import Contact from "@/components/Contact";
 
 
 export const metadata: Metadata = {
-  title: "SightSafe | The Future of Emotion Detecttion",
+  title: "Sentioai | The Future of Emotion Detecttion",
   description: "AI Powered",
   // other metadata
 };
