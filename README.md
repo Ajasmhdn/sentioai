@@ -6,22 +6,22 @@ A modern, responsive frontend for **Sentio AI**, a deep learning-based system th
 
 ## 🚀 Features
 
-* 📤 Upload facial images
-* 🧠 Real-time emotion prediction via API
-* 🖼️ Image preview before submission
-* 🎯 Clean modal displaying predicted emotion
-* 🌙 Dark/light theme support
-* ⚡ Fast and responsive UI
+- 📤 Upload facial images
+- 🧠 Real-time emotion prediction via API
+- 🖼️ Image preview before submission
+- 🎯 Clean modal displaying predicted emotion
+- 🌙 Dark/light theme support
+- ⚡ Fast and responsive UI
 
 ---
 
 ## 🧩 Tech Stack
 
-* Next.js / React
-* NextUI
-* Tailwind CSS
-* Axios
-* FontAwesome Icons
+- Next.js / React
+- NextUI
+- Tailwind CSS
+- Axios
+- FontAwesome Icons
 
 ---
 
@@ -37,7 +37,7 @@ http://127.0.0.1:5000/predict
 
 ```json
 {
-"emotion": "Happy"
+  "emotion": "Happy"
 }
 ```
 
@@ -94,8 +94,8 @@ npm run dev
 
 You can deploy this frontend using:
 
-* Vercel (Recommended)
-* Netlify
+- Vercel (Recommended)
+- Netlify
 
 ⚠️ Make sure to update API URL in code before deployment:
 
@@ -115,18 +115,18 @@ https://your-backend-url/predict
 
 This frontend is part of a **Full-Stack Deep Learning System**:
 
-* CNN Model (ResNet50)
-* Flask Backend API
-* Docker Deployment (planned)
+- CNN Model (ResNet50)
+- Flask Backend API
+- Docker Deployment (planned)
 
 ---
 
 ## 📌 Future Improvements
 
-* Real-time webcam emotion detection
-* Multi-face detection
-* Emotion probability visualization
-* Cloud deployment
+- Real-time webcam emotion detection
+- Multi-face detection
+- Emotion probability visualization
+- Cloud deployment
 
 ---
 
