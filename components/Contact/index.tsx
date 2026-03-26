@@ -206,14 +206,14 @@ const Contact = () => {
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Our Loaction
                 </h3>
-                <p>3H74+RQQ, Engineering College Rd, Thodiyoor , Kollam, Karunagappalli, Kerala 690523</p>
+                <p>TKM College of Engineering, Karicode, Kollam-691005,Kerala, India</p>
               </div>
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Email Address
                 </h3>
                 <p>
-                  <a href="mailto:dentai@gmail.com">dentaidvlp@gmail.com</a>
+                  <a href="mailto:spamshield@gmail.com">sentoai@gmail.com</a>
                 </p>
               </div>
               <div>
@@ -221,7 +221,7 @@ const Contact = () => {
                   Phone Number
                 </h4>
                 <p>
-                  <a href="tel:+918921747219">+91 8921 747 219</a>
+                  <a href="tel:++91 474-2712023">+91 8921 747 219</a>
 
                 </p>
               </div>

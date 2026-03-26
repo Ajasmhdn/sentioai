@@ -159,24 +159,24 @@ const Header = () => {
                         <ThemeToggler />
 
                         {/* Admin link (only shown on home page) */}
-                        {isHomePage && (
+                        {/* {isHomePage && (
                             <Link
                                 href="/auth/signin"
                                 className="text-regular font-medium text-waterloo hover:text-primary"
                             >
                                 Admin
                             </Link>
-                        )}
+                        )} */}
 
                         {/* Sign In button (only shown on home page) */}
-                        {isHomePage && (
+                        {/* {isHomePage && (
                             <Link
                                 href="/auth/signin"
                                 className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
                             >
                                 Sign In
                             </Link>
-                        )}
+                        )} */}
                     </div>
                 </div>
             </div>

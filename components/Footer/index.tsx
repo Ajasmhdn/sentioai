@@ -2,6 +2,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 
+
 const Footer = () => {
   return (
     <>
@@ -46,7 +47,7 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5">
-               The future of dentistry, powered by AI
+              The Future of Emotion
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -56,7 +57,7 @@ const Footer = () => {
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  dentaidvlp@gmail.com
+                  Sentoai@gmail.com
                 </a>
               </motion.div>
 
@@ -301,7 +302,7 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} DentAI. All rights reserved
+                &copy; {new Date().getFullYear()} SentoAI. All rights reserved
               </p>
             </motion.div>
 
