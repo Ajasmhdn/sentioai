@@ -60,7 +60,7 @@ export default function Home(): JSX.Element {
 
     try {
       const response = await axios.post(
-        "https://sentioai.hf.space/predict",
+        "https://ajaaz-deep-learning-cbt-sentioai.hf.space/",
         formData,
         {
           headers: {
