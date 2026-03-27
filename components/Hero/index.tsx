@@ -60,14 +60,16 @@ export default function Home(): JSX.Element {
 
     try {
       const response = await axios.post(
-        "https://ajaaz-deep-learning-cbt-sentioai.hf.space/",
-        formData,
-        {
-          headers: {
-            "Content-Type": "multipart/form-data",
-          },
-        }
-      );
+  "https://ajaaz-deep-learning-cbt-sentioai.hf.space/predict",
+  formData,
+  {
+    headers: {
+      "Content-Type": "multipart/form-data",
+    },
+  }
+);
+
+console.log(response.data); // 👈 ADD THIS
 
       setIsLoading(false);
       onOpen();
